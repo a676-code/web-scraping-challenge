@@ -1,2 +1,2 @@
 # web-scraping-challenge
-Module 11 for the Vanderbilt Data Analytics Bootcamp
+Module 11 Web Scraping Challenge for the Vanderbilt Data Analytics Bootcamp
